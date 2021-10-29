@@ -1,7 +1,7 @@
 # Chess club management app 
 
 ## Used Technologies:
-JavaFX
+Java, JavaFX
 
 ## Description:
 The mobile application is an individual project created on the Java programming language. 
